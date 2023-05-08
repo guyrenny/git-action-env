@@ -11,7 +11,8 @@ Coralogix provides a seamless integration with ``AWS`` cloud so you can send you
 
 The Cloud trail integration can be deployed by clicking the link below and signing into your AWS account:
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/create/app?applicationId=arn:aws:serverlessrepo:eu-central-1:597078901540:applications/Coralogix-CloudTrail)
+[deployment link](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/create/app?applicationId=arn:aws:serverlessrepo:eu-central-1:597078901540:applications/Coralogix-CloudTrail)
+
 
 ## Fields
 

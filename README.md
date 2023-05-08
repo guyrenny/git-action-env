@@ -7,9 +7,9 @@ Coralogix provides a seamless integration with ``AWS`` cloud so you can send you
 * An AWS.
 * An coralogix account.
 
-## Azure Resource Manager Template Deployment
+## AWS Resource Manager Template Deployment
 
-The BlobStorage Via Eventgrid trigger integration can be deployed by clicking the link below and signing into your Azure account:
+The Cloud trail integration can be deployed by clicking the link below and signing into your AWS account:
 
 [![Deploy to AWS](https://aka.ms/deploytoazurebutton)](https://us-east-1.console.aws.amazon.com/lambda/home?region=us-east-1#/create/app?applicationId=arn:aws:serverlessrepo:eu-central-1:597078901540:applications/Coralogix-CloudTrail)
 
